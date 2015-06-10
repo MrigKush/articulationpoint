@@ -1,0 +1,4 @@
+c:\users\mrigendra\documents\visual studio 2010\projects\articulationpoint\articulationpoint\bin\Debug\articulationpoint.exe
+c:\users\mrigendra\documents\visual studio 2010\projects\articulationpoint\articulationpoint\bin\Debug\articulationpoint.pdb
+c:\users\mrigendra\documents\visual studio 2010\projects\articulationpoint\articulationpoint\obj\x86\Debug\articulationpoint.exe
+c:\users\mrigendra\documents\visual studio 2010\projects\articulationpoint\articulationpoint\obj\x86\Debug\articulationpoint.pdb
